@@ -9,24 +9,21 @@ body {
   padding-right: 40px;
 }
 
-.members {
-  border: 1px solid blue;
-  overflow: auto;
-  vertical-align: middle !important;
-}
-
-.members-img {
-  border: 1px solid red;
-  float: left;
-  margin: 0 20px 0 0;
-  display: inline-block;
-  line-height: 100%;
-}
-
 .members-body {
   border: 1px solid orange;
-  display: inline-block;
+  margin-left: 0;
 }
+
+.members-body dt {
+  border: 1px solid blue;
+  left: 0;
+}
+
+.members-body dd {
+  border: 1px solid green;
+
+}
+
 
 .members-heading {
   margin-top: 0;

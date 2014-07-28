@@ -5,25 +5,13 @@ body {
   padding-bottom: 20px;
 }
 
+cite {
+  font-style: italic;
+}
+
 .currently-reading {
   padding-right: 40px;
 }
-
-.members-body {
-  border: 1px solid orange;
-  margin-left: 0;
-}
-
-.members-body dt {
-  border: 1px solid blue;
-  left: 0;
-}
-
-.members-body dd {
-  border: 1px solid green;
-
-}
-
 
 .members-heading {
   margin-top: 0;

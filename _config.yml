@@ -1,3 +1,11 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:  redcarpet
+pygments:  true
+
+# Permalinks
+permalink:  pretty
+relative_permalinks:  true
+
+# Setup
+# root:  http://adhocbookclub.github.io
+title:  Ad Hoc Book Club

@@ -9,12 +9,40 @@ cite {
   font-style: italic;
 }
 
+.nomination-quote {
+	font-size: 14px;
+}
+
 .currently-reading {
   padding-right: 40px;
 }
 
 .members-heading, .nomination-heading {
   margin-top: 0;
+}
+
+.nomination-cover {
+  margin: 10px;
+	height: 200px;
+}
+
+.white-cover {
+	border: 1px solid #eeeeee;
+}
+
+.social-icon {
+	width: 30px;
+	height: 30px;
+	border: 1px solid #ddd;
+	padding: 2px;
+	border-radius: 4px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.social-icon:hover {
+	background-color: #e0e0e0;
+	border: 1px solid #bbb;
 }
 
 /*

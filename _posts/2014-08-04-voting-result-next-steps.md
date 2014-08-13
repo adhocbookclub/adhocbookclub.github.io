@@ -7,7 +7,7 @@ category: announcement
 Thank you all for voting! The results are in, and we are happy to announce the top three books, which will make up our reading list for the next three months.
 
 <!--more-->
-<table class="table" style="width: 60%;">
+<table class="table" style="width: 650px;">
   <thead>
     <th>August</th>
     <th>September</th>

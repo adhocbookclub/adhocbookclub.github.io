@@ -13,45 +13,35 @@ title: Home
 </div>
 
 <div class="container">
-  <div class="media">
-    <img class="currently-reading pull-left media-object" src="https://gallery.mailchimp.com/839b7c8c8e048c4ed1c11fcd5/images/043bc022-9fe1-478d-80a6-aa87fd0fdfa9.png" height="300">
-    <div class="media-body">
-      <h2 class="media-heading"><span class="label label-success">VOTE VOTE VOTE!</span></h2>
-      <h2>August 2014: Nominations &amp; Ballot</h2>
-      <p class="lead">Thank you for your nominations! We have received <strong>21</strong> recommendations for our upcoming sessions&mdash;what a great way to kick off our book club this year!</p>
-      <p class="lead">The voting period begins right now, and continue until <strong>Thursday, July 31st, 11:59PM</strong>. Specific instructions are included in the email and ballot, which you should have already received. Also, check out our FAQ page to see if your questions have already been answered. Can't wait to see your vote!</p>
-      <a href="/nomination-list" class="btn btn-primary btn-lg">Nomination List &raquo;</a>
-      <a href="/voting-faq" class="btn btn-default btn-lg">Voting FAQ &raquo;</a>
-    </div>
-  </div>
-
-<!-- <div class="container">
-  <div class="media">
-    <img class="currently-reading pull-left media-object" src="http://www.kindlebooks.co.za/sites/default/files/imagecache/product_full/christie_styles.jpg" height="300">
-    <div class="media-body">
-      <h2 class="media-heading"><span class="label label-primary">Currently Reading</span></h2>
-      <h2>The Mysterious Affair at Styles <small>Agatha Christie</small></h2>
-      <p class="lead">Set in Essex in the English countryside, The Mysterious Affair at Styles is one of the great classic murder mysteries. The victim, Mrs. Emily Inglethorp, is the wealthy mistress of Styles Court. After an evening of entertaining family and guests, she is found poisoned in her locked bedroom. The long list of suspects includes her gold-digging new husband, her stepsons, her best female friend, and a visiting doctor.</p>
-      <a href="/currently-reading" class="btn btn-default btn-lg">Read More &raquo;</a>
-    </div>
-  </div> -->
-  <!-- <br/><hr>
-
-  <div class="row">
-    <div class="col-md-4">
-      <h2>Heading</h2>
-      <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-    </div>
-    <div class="col-md-4">
-      <h2>Heading</h2>
-      <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-    </div>
-    <div class="col-md-4">
-      <h2>Heading</h2>
-      <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-    </div>
-  </div> -->
+  {% for post in site.posts %}
+    {% if post.category == 'announcement' %}
+      {% capture modulo %}{{ forloop.index0 | modulo: 3 }}{% endcapture %}
+      {% if modulo == '0' or forloop.first %}
+        <div class="row">
+      {% endif %}
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a><br/><small>{{ post.date | date_to_string }}</small></h2>
+            {% if post.content contains '<!--more-->' %}
+              {{ post.content | split:'<!--more-->' | first }}
+            {% else %}
+              {{ post.content }}
+            {% endif %}
+            <a href="{{ post.url }}" class="btn btn-default pull-right">Read More &raquo;</a>
+          </div>
+        </div>
+      </div>
+      {% if modulo == '2' or forloop.last %}
+        </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 </div> <!-- /container -->
+
+<script>
+  var elements = document.getElementsByClassName('excerpt-img');
+  for (var i = 0, length = elements.length; i < length; i++) {
+     elements[i].style.display = "none";
+  }
+</script>

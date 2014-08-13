@@ -9,12 +9,16 @@ cite {
   font-style: italic;
 }
 
-.nomination-quote {
-	font-size: 14px;
+.pull-left {
+  padding-right: 20px;
 }
 
-.currently-reading {
-  padding-right: 40px;
+.pull-right {
+  padding-left: 20px;
+}
+
+.nomination-quote {
+	font-size: 14px;
 }
 
 .members-heading, .nomination-heading {
@@ -54,4 +58,10 @@ cite {
   display: -webkit-flex;
   display: -ms-flexbox;
   display:         flex;
+}
+
+@media (min-width: 992px) {
+  .col-md-4 > .panel > .panel-body {
+    min-height: 290px;
+  }
 }

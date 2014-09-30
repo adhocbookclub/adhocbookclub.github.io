@@ -49,6 +49,16 @@ cite {
 	border: 1px solid #bbb;
 }
 
+.discussion-leader {
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.discussion-leader .img-responsive {
+  margin: 0 auto 10px;
+}
+
 /*
 * Row with equal height columns
 * --------------------------------------------------

@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "'Underground': Discussion Summary"
+title: "'Underground: The Tokyo Gas Attack and the Japanese Psyche': Discussion Summary"
 category: summary
 ---
 
-#*Underground: The Tokyo Gas Attack and the Japanese Psyche*: Discussion Summary
-
-September 7, 2014
+**Date:** September 7, 2014
 
 ##Opening remarks & introductions
 ###Participants
@@ -90,7 +88,7 @@ Mahayana Buddhism says that the denial of self is not as important as pre-Mahaya
 * **BL:** INTP.
 
 ##Conclusion
-* JS: I didn't know about this incident until I read the book, and while I did get bored because of the repetition, I'm glad I know about it now. I think this incident should be remembered, so similar tragedies don't happen in the future.
-* JC: I did hear about this incident, but I thought the book was very informative and was an interesting read.
-* AC: I liked the book, and while it was a little repetitive, I think the exposure of this incident is good.
-* BL: All of the kind of sounded the same, except for the subway workers and Disneyland girl, but I'm also glad I was made aware of this.
+* **JS:** I didn't know about this incident until I read the book, and while I did get bored because of the repetition, I'm glad I know about it now. I think this incident should be remembered, so similar tragedies don't happen in the future.
+* **JC:** I did hear about this incident, but I thought the book was very informative and was an interesting read.
+* **AC:** I liked the book, and while it was a little repetitive, I think the exposure of this incident is good.
+* **BL:** All of the kind of sounded the same, except for the subway workers and Disneyland girl, but I'm also glad I was made aware of this.

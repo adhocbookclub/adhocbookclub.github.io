@@ -5,8 +5,8 @@ category: guide
 ---
 
 <div class="discussion-leader">
-	<img src="/img/jacky/jc-1.jpg" width="250" class="img-responsive img-circle" alt="Jacky Cheng">
-	<p><strong>Discussion Leader:</strong> Jacky Cheng</p>
+	<img src="/img/members/jacky.jpg" width="250" class="img-responsive img-circle" alt="Jacky Cheng">
+	<h4>Discussion Leader: Jacky Cheng</h4>
 </div>
 
 1. Taraka insists that Sam deserves the title of "Lord of Light" (275). Sam claims that becoming the Buddha was merely a calculated choice. Do you think Sam experienced personal enlightenment in campaigning for his cause? Does it matter that he consciously rejects the beliefs he preaches? What is the role of religion for Sam? The mortals? The gods?

@@ -20,41 +20,64 @@ cite {
   padding-left: 20px;
 }
 
-
-/****************************
-  NOMINATION LIST
-****************************/
-
-.nomination-quote {
-	font-size: 14px;
+.img-responsive {
+  margin: 0 auto 10px;
 }
 
-.members-heading, .nomination-heading {
+/****************************
+  MEMBERS PAGE
+****************************/
+
+.members-heading {
   margin-top: 0;
 }
 
-.nomination-cover {
-  margin: 10px;
-	height: 200px;
+
+/****************************
+  CURRENTLY READING
+****************************/
+
+.book-panel {
+  padding: 10px 0;
 }
 
-.white-cover {
-	border: 1px solid #eeeeee;
+.book-panel a:hover {
+  text-decoration: none !important;
 }
 
-.social-icon {
-	width: 30px;
-	height: 30px;
-	border: 1px solid #ddd;
-	padding: 2px;
-	border-radius: 4px;
-	margin-right: 10px;
-	text-align: center;
+.book-icons {
+  text-align: center;
 }
 
-.social-icon:hover {
-	background-color: #e0e0e0;
-	border: 1px solid #bbb;
+.book-icons .whitecover {
+  border: 1px solid #eee;
+}
+
+.book-icons span {
+  color: #000;
+  margin: 0 15px 0;
+}
+
+.book-info h3:first-child {
+  margin-top: 0;
+}
+
+.book-info blockquote {
+  font-size: 14px;
+}
+
+.book-info a {
+  margin: 0 10px 0 0;
+}
+
+.book-info span {
+  margin: 0 10px 0 0;
+  padding: 0;
+}
+
+.book-info ul {
+  list-style: none;
+  padding-left: 10px;
 }
 
 /****************************
@@ -65,10 +88,6 @@ cite {
   display: block;
   text-align: center;
   margin: 20px auto;
-}
-
-.discussion-leader .img-responsive {
-  margin: 0 auto 10px;
 }
 
 /****************************

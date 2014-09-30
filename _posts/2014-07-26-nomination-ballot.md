@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nominations &amp; Ballot"
-category: announcement
+<!-- category: announcement -->
 ---
 
 

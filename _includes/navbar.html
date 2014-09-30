@@ -12,6 +12,7 @@
       </div>
       <div class="navbar-right navbar-collapse collapse">
         <ul class="text-uppercase nav navbar-nav">
+          <li><a href="/"><span class="glyphicon glyphicon-home"><span></a></li>
           {% for node in site.pages %}
             {% if node.group == "nav" %}
               {% if page.url == node.url %}

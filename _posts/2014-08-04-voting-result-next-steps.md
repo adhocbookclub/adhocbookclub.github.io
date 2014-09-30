@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Voting Results & Next Steps"
-category: announcement
+<!-- category: announcement -->
 ---
 
 Thank you all for voting! The results are in, and we are happy to announce the top three books, which will make up our reading list for the next three months.

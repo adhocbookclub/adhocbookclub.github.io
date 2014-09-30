@@ -1,5 +1,8 @@
-/* move down content for fixed navbar */
+/****************************
+  GENERAL
+****************************/
 
+/* move down content for fixed navbar */
 body {
   padding-top: 50px;
   padding-bottom: 20px;
@@ -16,6 +19,11 @@ cite {
 .pull-right {
   padding-left: 20px;
 }
+
+
+/****************************
+  NOMINATION LIST
+****************************/
 
 .nomination-quote {
 	font-size: 14px;
@@ -49,6 +57,10 @@ cite {
 	border: 1px solid #bbb;
 }
 
+/****************************
+  BOOK SPECIFIC PAGES
+****************************/
+
 .discussion-leader {
   display: block;
   text-align: center;
@@ -59,10 +71,9 @@ cite {
   margin: 0 auto 10px;
 }
 
-/*
-* Row with equal height columns
-* --------------------------------------------------
-*/
+/****************************
+  Row with equal height columns
+****************************/
 .row-eq-height {
   display: -webkit-box;
   display: -webkit-flex;

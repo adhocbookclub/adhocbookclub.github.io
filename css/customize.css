@@ -80,14 +80,8 @@ cite {
   padding-left: 10px;
 }
 
-/****************************
-  BOOK SPECIFIC PAGES
-****************************/
-
-.discussion-leader {
-  display: block;
-  text-align: center;
-  margin: 20px auto;
+.book-info img {
+  width: 170px;
 }
 
 /****************************

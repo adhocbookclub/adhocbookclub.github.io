@@ -4,14 +4,9 @@ title: "'Underground: The Tokyo Gas Attack and the Japanese Psyche': Discussion 
 category: summary
 ---
 
-**Date:** September 7, 2014
-
 ##Opening remarks & introductions
+###Date: September 7, 2014
 ###Participants
-**Discussion Leaders:** Jenny, Kathy
-
-**Attendees:**
-
 * Alice Chiu (AC)
 * Austin Lee (AL)
 * Bill Liu (BL)

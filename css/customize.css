@@ -84,6 +84,14 @@ cite {
 }
 
 /****************************
+  DISCUSSION GUIDE
+****************************/
+.discussion-leader {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/****************************
   Row with equal height columns
 ****************************/
 .row-eq-height {

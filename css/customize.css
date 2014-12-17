@@ -36,6 +36,16 @@ iframe {
   border: none;
 }
 
+#vote {
+  width: 520px;
+  height: 4550px;
+  overflow: hidden;
+}
+
+#vote-well {
+  /*position: fixed;*/
+}
+
 /****************************
   MEMBERS PAGE
 ****************************/
@@ -69,7 +79,7 @@ iframe {
   margin: 0 15px 0;
 }
 
-.book-info h3:first-child {
+.book-info h4:first-child {
   margin-top: 0;
 }
 

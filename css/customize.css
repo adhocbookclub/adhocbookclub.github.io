@@ -37,13 +37,22 @@ iframe {
 }
 
 #vote {
-  width: 520px;
-  height: 4550px;
+  width: 410px;
+  height: 2550px;
   overflow: hidden;
 }
 
-#vote-well {
-  /*position: fixed;*/
+#scale {
+  margin-bottom: 0;
+}
+
+#nominations h4 {
+  margin: 2px 0;
+}
+
+#nominations hr {
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 /****************************
@@ -59,7 +68,7 @@ iframe {
 ****************************/
 
 .book-panel {
-  padding: 10px 0;
+  padding: 10px 0 0 0;
 }
 
 .book-panel a:hover {
@@ -76,7 +85,7 @@ iframe {
 
 .book-icons span {
   color: #000;
-  margin: 0 15px 0;
+  margin: 0 5px 0;
 }
 
 .book-info h4:first-child {

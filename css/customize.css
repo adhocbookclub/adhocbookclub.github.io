@@ -27,18 +27,9 @@ cite {
 /****************************
   NOMINATION FORM
 ****************************/
-iframe {
-  height: 430px;
-  overflow: hidden;
-  width: 760px;
-  margin: 0;
-  padding: 0;
-  border: none;
-}
-
 #vote {
   width: 410px;
-  height: 2550px;
+  height: 2400px;
   overflow: hidden;
 }
 

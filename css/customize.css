@@ -105,6 +105,22 @@ cite {
   width: 170px;
 }
 
+.resources {
+  list-style: none;
+  padding-left: 0;
+}
+
+.resources li {
+  padding-bottom: 5px;
+}
+
+.resources span {
+  padding-right: 15px;
+  position: relative;
+  top: 5px;
+
+}
+
 /****************************
   DISCUSSION GUIDE
 ****************************/

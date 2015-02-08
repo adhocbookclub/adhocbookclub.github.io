@@ -24,6 +24,12 @@ cite {
   margin: 0 auto 10px;
 }
 
+.inactive {
+  background-color: #eee;
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+}
+
 /****************************
   NOMINATION FORM
 ****************************/
@@ -50,8 +56,10 @@ cite {
   MEMBERS PAGE
 ****************************/
 
-.members-heading {
-  margin-top: 0;
+.members-img {
+  width: 170px;
+  margin: 0 5px 10px;
+  border-radius: 100%;
 }
 
 /****************************

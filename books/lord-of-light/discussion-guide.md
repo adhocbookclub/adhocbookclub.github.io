@@ -6,7 +6,7 @@ category: guide
 
 <div class="discussion-leader">
 	<h3>Discussion Leader</h3>
-    <img src="/img/members/jacky.jpg" width="250" class="img-responsive img-circle" alt="Jacky Cheng">
+    <img src="/img/members/jacky.jpg" width="200" class="img-responsive img-circle" alt="Jacky Cheng">
 	<p>Jacky Cheng</p>
 </div>
 

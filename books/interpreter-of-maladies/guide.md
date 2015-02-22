@@ -39,4 +39,5 @@ How does society respond to Bibi's condition in this story?  How is Bibi affecte
 What is different about the narration of this story? How is this significant?
 
 ###Stories Poll
+*(In order to view and submit the form, you must be signed in to your gmail account)*
 <iframe src="https://docs.google.com/forms/d/1SAnsR8yYERm36Jcv7BRfp01dPCa20pAozoJ22CkT7Mc/viewform?embedded=true" width="760" height="1050" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

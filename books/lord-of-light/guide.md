@@ -4,12 +4,6 @@ title: "'Lord of Light': Discussion Guide"
 category: guide
 ---
 
-<div class="discussion-leader">
-	<h3>Discussion Leader</h3>
-    <img src="/img/members/jacky.jpg" width="200" class="img-responsive img-circle" alt="Jacky Cheng">
-	<p>Jacky Cheng</p>
-</div>
-
 1. Taraka insists that Sam deserves the title of "Lord of Light" (275). Sam claims that becoming the Buddha was merely a calculated choice. Do you think Sam experienced personal enlightenment in campaigning for his cause? Does it matter that he consciously rejects the beliefs he preaches? What is the role of religion for Sam? The mortals? The gods?
 2. Is Sam justified in his use of deceit and trickery (mainly in relation to his preaching)? What is the significance of Rild, the disciple who genuinely converts to Sam’s religion?
 3. The novel begins near the conclusion in chapter 1, but picks up in earnest at a time point in the past in chapter 2. Characters frequently change their names, bodies, and identities. Why do you think the novel is structured as such?

@@ -4,20 +4,13 @@ title: "'Interpreter of Maladies': Discussion Guide"
 category: guide
 ---
 
-<div class="discussion-leader">
-  <h3>Discussion Leader</h3>
-    <img src="/img/members/kim.jpg" width="200" class="img-responsive img-circle" alt="Kim Chen">
-  <p>Kim Chen</p>
-</div>
-
 ###General ideas
-- **The immigrant experience**: What defines the immigrant experience and how does this idea weave throughout the stories?
-- **Isolation**: How does isolation play a role in the psyche of these characters? How does their personal/cultural isolation affect their interpersonal relationships?
-- **Brief encounters**: What power does people coming and going in our lives have on our sense of identity?
-- **Interpreter of maladies**: Figuratively, what do you think it mean to be an interpreter of maladies?
+* **The immigrant experience**: What defines the immigrant experience and how does this idea weave throughout the stories?
+* **Isolation**: How does isolation play a role in the psyche of these characters? How does their personal/cultural isolation affect their interpersonal relationships?
+* **Brief encounters**: What power does people coming and going in our lives have on our sense of identity?
+* **Interpreter of maladies**: Figuratively, what do you think it mean to be an interpreter of maladies?
 
 ###Reading guide
-
 **A Temporary Matter**  
 The doctor suggests to Shukumar that holding the baby might help with the grieving process, to which he complies, yet he promises himself that he will never tell Shoba, "because he still loved her then, and it was the one thing in her life that she had wanted to be a surprise." Do you agree with his justification? Why or why not?
 
@@ -44,3 +37,6 @@ How does society respond to Bibi's condition in this story?  How is Bibi affecte
 
 **The Third and Final Continent**  
 What is different about the narration of this story? How is this significant?
+
+###Stories Poll
+<iframe src="https://docs.google.com/forms/d/1UYrIA5PlJO4XK4o6alcDG_gI3KTdVaauPBeRRCRjvR0/viewform?embedded=true" width="760" height="770" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

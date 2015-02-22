@@ -8,6 +8,10 @@ body {
   padding-bottom: 20px;
 }
 
+blockquote {
+  font-size: 14px;
+}
+
 cite {
   font-style: italic;
 }
@@ -91,10 +95,6 @@ cite {
   margin-top: 0;
 }
 
-.book-info blockquote {
-  font-size: 14px;
-}
-
 .book-info a {
   margin: 0 10px 0 0;
 }
@@ -136,6 +136,17 @@ cite {
   text-align: center;
   margin-bottom: 20px;
 }
+
+/****************************
+  SUMMARY GUIDE
+****************************/
+.participant {
+  width: 100px;
+  margin: 0 5px 10px;
+  border-radius: 100%;
+}
+
+
 
 /****************************
   Row with equal height columns

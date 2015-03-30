@@ -12,33 +12,6 @@ title: Home
 </div>
 
 <div class="container">
-  {% for post in site.posts %}
-    {% if post.category == 'announcement' %}
-      {% capture modulo %}{{ forloop.index0 | modulo: 3 }}{% endcapture %}
-        {% if modulo == '0' or forloop.first %}
-        <div class="row">
-          {% endif %}
-          <div class="col-md-4">
-            <div class="panel panel-default">
-              <div class="panel-body">
-                <h2><a href="{{ post.url }}">{{ post.title }}</a><br/><small>{{ post.date | date_to_string }}</small></h2>
-                {% if post.content contains '<!--more-->' %}
-                  {{ post.content | split:'<!--more-->' | first }}
-                {% else %}
-                  {{ post.content }}
-                {% endif %}
-                <a href="{{ post.url }}" class="btn btn-default pull-right">Read More &raquo;</a>
-              </div>
-            </div>
-          </div>
-          {% if modulo == '2' or forloop.last %}
-        </div>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-</div>
-
-<div class="container">
   <h1>Spring 2015 Reading List</h1>
   <p class="lead">Thank you for submitting your <a href="/nominations/winter2014" target="_blank">nominations</a> and ballot! The <a href="https://www.dropbox.com/s/wtxlupm023318rh/Voting%20Results.pdf?dl=0" target="_blank">results</a> are in, and we are happy to announce the top five books!</p>
   <table class="table" style="margin-bottom: 0;">
@@ -55,17 +28,17 @@ title: Home
         <cite>Interpreter of Maladies</cite><br/>Jhumpa Lahiri
       </td>
 
-      <td class="success text-center">
+      <td class="inactive text-center">
         <h4>March</h4>
         <img class="img-responsive" src="/img/book-covers/hard-boiled.jpg" width="200">
         <cite>Hard-Boiled Wonderland<br/>and the End of the World</cite><br/>Haruki Murakami
-        <h4><span class="label label-success">Currently Reading</span></h4>
       </td>
 
-      <td class="text-center">
+      <td class="success text-center">
         <h4>April</h4>
         <img class="img-responsive" src="/img/book-covers/alchemist.jpg" width="200">
         <cite>The Alchemist</cite><br/>Paulo Coelho
+        <h4><span class="label label-success">Currently Reading</span></h4>
       </td>
 
       <td class="text-center">
@@ -79,31 +52,24 @@ title: Home
         <div class="row">
           <div class="col-md-7">
             <h3>Synopsis</h3>
-            <p>A dreamlike novel, <cite>Hard Boiled Wonderland and the End of the World</cite> is split between parallel narratives. The odd-numbered chapters take place in the "Hard-Boiled Wonderland​". The narrator is a "Calcutec", a human data processor/encryption system who has been trained to use his subconscious as an encryption key.​ The even-numbered chapters deal with a newcomer to "The End of the World", a strange, isolated Town purportedly surrounded by a perfect and impenetrable wall. The narrator is in the process of being accepted into the Town​, but there is something eerily disquieting about its changeless nature and fable-like inhabitants. The two storylines converge, exploring concepts of consciousness, the unconscious mind, and identity.</p>
+            <p>Paulo Coelho's enchanting novel, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles along the way. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.</p>
           </div>
           <div class="col-md-2">
             <h3>Resources</h3>
             <ul class="resources">
-              <li><span class="flaticon-goodreads"></span> <a href="http://bit.ly/1AlEEOa" target="_blank">Goodreads</a></li>
-              <li><span class="flaticon-amazon1"></span><a href="http://amzn.to/1xraAms" target="_blank">Amazon</a></li>
-              <li><span class="flaticon-speech55"></span><a href="/books/hard-boiled-wonderland/guide">Discussion Guide</a></li>
+              <li><span class="flaticon-goodreads"></span> <a href="http://bit.ly/1z1Plbp" target="_blank">Goodreads</a></li>
+              <li><span class="flaticon-amazon1"></span><a href="http://amzn.to/13wgwyh" target="_blank">Amazon</a></li>
+              <!-- <li><span class="flaticon-speech55"></span><a href="/books/alchemist/guide">Discussion Guide</a></li> -->
             </ul>
           </div>
           <div class="col-md-3 book-info text-center">
             <h3>Discussion Leader</h3>
-            <img src="/img/members/austin.jpg" width="170" class="img-responsive img-circle" alt="Austin Lee">
-            <!-- <img src="http://placehold.it/170&text=TBD" class="img-responsive img-circle"> -->
-            <p>Austin Lee</p>
+            <!-- <img src="/img/members/austin.jpg" width="170" class="img-responsive img-circle" alt="Austin Lee"> -->
+            <img src="http://placehold.it/170&text=TBD" class="img-responsive img-circle">
+            <!-- <p>Austin Lee</p> -->
           </div>
         </div>
       </td>
     </tr>
   </table>
 </div>
-
-<script>
-  var elements = document.getElementsByClassName('excerpt-img');
-  for (var i = 0, length = elements.length; i < length; i++) {
-    elements[i].style.display = "none";
-  }
-</script>

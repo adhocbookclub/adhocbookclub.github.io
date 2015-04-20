@@ -126,7 +126,10 @@ cite {
   padding-right: 15px;
   position: relative;
   top: 5px;
+}
 
+.resources hr {
+  margin: 5px 0;
 }
 
 /****************************

@@ -140,6 +140,10 @@ cite {
   margin-bottom: 20px;
 }
 
+.guide > li:not(:last-child) {
+  margin-bottom: 10px;
+}
+
 /****************************
   SUMMARY GUIDE
 ****************************/

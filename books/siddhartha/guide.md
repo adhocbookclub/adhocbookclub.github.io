@@ -10,7 +10,6 @@ category: guide
 * **Brahman**: "the unchanging reality amidst and beyond the world," "creative principle which lies realized in the whole world"
 * **Ātman**: soul/inner-self, essence of an individual; "in order to attain liberation, a human being must acquire self-knowledge, which is to realize that one's true self (Ātman) is identical with the transcendent self, Brahman"
 * **śramana/samana**: Sanskrit for "seeker"; an Indian religious movement contemporaneous with the historical Vedic religion; śramanas when mainly young men who renounced household life to follow paths alternative to Vedic rituals to seek liberation
-* **Buddha**: the historical buddha, "the awakened one", believed to have lived and taught in India between the sixth and fourth centuries BCE, also known as Siddhartha, Gautama, and Shakyamuni
 * **saṃsāra**: literally means "a wandering through," cycle of repeated birth, life, and death
 * **nirvāṇa**: literally means "blown out" or "extinguished," commonly understood to be liberation from samsara
 * Three major schools of Buddhism today:
@@ -40,8 +39,10 @@ category: guide
     <ol type="a">
       <li>"There is nothing to opinions...but the teachings, you've heard from me, are no opinion, and their goal is not to explain the world to those who seek knowledge...their goal is salvation from suffering" (26)</li>
       <li>"nobody will obtain salvation by means of teachings! You will not be able to convey and say to anybody...what has happened to you in the hour of enlightenment! ...depart from all teachings and all teachers and to reach my goal by myself or to die" (27)
-      <br/>
-      What does this imply about Buddhism as a religion? How should a Buddhist consider the teachings of the Buddha? Empiricism vs. rationalism?</li>
+        <ol type="i">
+          <li>What does this imply about Buddhism as a religion? How should a Buddhist consider the teachings of the Buddha? Empiricism vs. rationalism?</li>
+        </ol>
+      </li>
       <li>"you know how to talk wisely, my friend. Be aware of too much wisdom!" (28)</li>
     </ol>
   </li>
@@ -49,9 +50,9 @@ category: guide
     <div class="well well-sm">
       <ul class="guide">
         <li>See "<a href="http://www.bartleby.com/45/3/201.html" target="_blank">Questions Which Tend Not to Edification</a>" for an exposition on the Buddha's reluctance to answer metaphysical questions</li>
-        <li>Chan koan:  
-      Monk: "Where is the place from which all buddhas come?"  
-      Yun-men: "Next question, please!"</li>
+        <li>Chan koan:<br/>
+          Monk: "Where is the place from which all buddhas come?"<br/>
+          Yun-men: "Next question, please!"</li>
         <li><em>Tao Te Ching</em>: "The way that can be spoken of is not the constant way; the name that can be named is not the constant name."</li>
         <li>See "Parable of the Burning House", Strong pp. 146-151 for one of the classical sources of the doctrine of skillful means (upaya) and a doctrinal explanation for the emergence of the Mahayana school</li>
       </ul>
@@ -77,26 +78,23 @@ category: guide
       <li>The stone is already everything, but it is also a stone today. (102)</li>
     </ol>
   </li>
-</ol>
 
-<div class="well well-sm">
-  <ul class="guide">
-    <li>For classical sources on emptiness/nonduality (śūnyatā), see <a href="http://lapislazulitexts.com/longer_prajnaparamita_hrdaya_sutra.html" target="_blank"><em>Heart Sutra</em></a>, "Nargarjuna: Verses", Strong pp. 157-162, and *Vimalakirti Sutra*.</li>
-    <li>Excerpt from *Vimalakirti Sutra*: Vimalakīrti remains silent while discussing the subject of emptiness with an assembly of bodhisattvas. The bodhisattvas give a variety of answers on the question what non-duality is. Manjusri is the last bodhisattva to answer, and says that "by giving an explanation they have already fallen into dualism". Vimalakīrti, in his turn, answers with silence.</li>
-    <li>Wikipedia on Nargarjun on the two truths doctrine in the Mūlamadhyamakakārikā: which claims that there are two levels of truth or reality in Buddhist teaching, the ultimate reality and the conventionally or superficial reality. The ultimate truth to Nagarjuna is the truth that everything is empty of essence, this includes emptiness itself ('the emptiness of emptiness') &ndash; Middle Way.</li>
-    <li>Nargarjuna's use of catuṣkoṭi (here is an article that has a somewhat lucid explanation on the <a href="http://aeon.co/magazine/philosophy/logic-of-buddhist-philosophy/" target="_blank">catuṣkoṭi </a>) in his exposition of emptiness:</li>
-    <blockquote>
-      All things (dharma) exist: affirmation of being, negation of non-being<br/>
-      All things (dharma) do not exist: affirmation of non-being, negation of being<br/>
-      All things (dharma) both exist and do not exist: both affirmation and negation<br/>
-      All things (dharma) neither exist nor do not exist: neither affirmation nor negation<br/>  
-      Emptiness is none of the above. To say that all things are 'empty' is to deny any kind of ontological foundation.
+  <div class="well well-sm">
+    <ul class="guide">
+      <li>For classical sources on emptiness/nonduality (śūnyatā), see <a href="http://lapislazulitexts.com/longer_prajnaparamita_hrdaya_sutra.html" target="_blank"><em>Heart Sutra</em></a>, "Nargarjuna: Verses", Strong pp. 157-162, and <em>Vimalakirti Sutra</em>.</li>
+      <li>Excerpt from <em>Vimalakirti Sutra</em>: Vimalakīrti remains silent while discussing the subject of emptiness with an assembly of bodhisattvas. The bodhisattvas give a variety of answers on the question what non-duality is. Manjusri is the last bodhisattva to answer, and says that "by giving an explanation they have already fallen into dualism". Vimalakīrti, in his turn, answers with silence.</li>
+      <li>Wikipedia on Nargarjun on the two truths doctrine in the Mūlamadhyamakakārikā: which claims that there are two levels of truth or reality in Buddhist teaching, the ultimate reality and the conventionally or superficial reality. The ultimate truth to Nagarjuna is the truth that everything is empty of essence, this includes emptiness itself ('the emptiness of emptiness') &ndash; Middle Way.</li>
+      <li>Nargarjuna's use of catuṣkoṭi (here is an article that has a somewhat lucid explanation on the <a href="http://aeon.co/magazine/philosophy/logic-of-buddhist-philosophy/" target="_blank">catuṣkoṭi </a>) in his exposition of emptiness:</li>
+      <blockquote>All things (dharma) exist: affirmation of being, negation of non-being<br/>
+        All things (dharma) do not exist: affirmation of non-being, negation of being<br/>
+        All things (dharma) both exist and do not exist: both affirmation and negation<br/>
+        All things (dharma) neither exist nor do not exist: neither affirmation nor negation<br/>  
+        Emptiness is none of the above. To say that all things are 'empty' is to deny any kind of ontological foundation.
       </blockquote>
-    <li>Chan koans: A monk asked Dongshan Shouchu, "What is Buddha?" Dongshan said, "Three pounds of flax."</li>
-    <li>A student asked Master Yun-Men (A.D. 949) "Not even a thought has arisen; is there still a sin or not?" Master replied, “Mount Sumeru!"</li>
-    <li>Tiantai formulation: Three thousand realms in a single moment of thought:</li>
-    <blockquote>
-      Zhiyi taught the principle of Three Thousand Realms in a Single Thought Moment (一念三千) in his "Great Concentration and Insight", based on the *Lotus Sutra*. The number 'Three Thousand' is derived from the Ten Worlds, multiplied by ten [because of the Mutual Possession of the Ten Worlds], which gives 100, multiplied by ten [the Ten Factors listed in Ch. 2 of the Lotus Sutra] which gives 1,000. 1,000 multiplied by 3 [the Three Realms of Existence: Self, Other, and Environment] which gives 3,000. - Wikipedia
-    </blockquote>
-  </ul>
-</div>
+      <li>Chan koans: A monk asked Dongshan Shouchu, "What is Buddha?" Dongshan said, "Three pounds of flax."</li>
+      <li>A student asked Master Yun-Men (A.D. 949) "Not even a thought has arisen; is there still a sin or not?" Master replied, “Mount Sumeru!"</li>
+      <li>Tiantai formulation: Three thousand realms in a single moment of thought:</li>
+      <blockquote>Zhiyi taught the principle of Three Thousand Realms in a Single Thought Moment (一念三千) in his "Great Concentration and Insight", based on the <em>Lotus Sutra</em>. The number 'Three Thousand' is derived from the Ten Worlds, multiplied by ten [because of the Mutual Possession of the Ten Worlds], which gives 100, multiplied by ten [the Ten Factors listed in Ch. 2 of the Lotus Sutra] which gives 1,000. 1,000 multiplied by 3 [the Three Realms of Existence: Self, Other, and Environment] which gives 3,000. - Wikipedia</blockquote>
+    </ul>
+  </div>
+</ol>

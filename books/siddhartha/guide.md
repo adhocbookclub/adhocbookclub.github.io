@@ -53,7 +53,7 @@ category: guide
         <li>Chan koan:<br/>
           Monk: "Where is the place from which all buddhas come?"<br/>
           Yun-men: "Next question, please!"</li>
-        <li><em>Tao Te Ching</em>: "The way that can be spoken of is not the constant way; the name that can be named is not the constant name."</li>
+        <li><cite>Tao Te Ching</cite>: "The way that can be spoken of is not the constant way; the name that can be named is not the constant name."</li>
         <li>See "Parable of the Burning House", Strong pp. 146-151 for one of the classical sources of the doctrine of skillful means (upaya) and a doctrinal explanation for the emergence of the Mahayana school</li>
       </ul>
     </div>
@@ -81,9 +81,12 @@ category: guide
 
   <div class="well well-sm">
     <ul class="guide">
-      <li>For classical sources on emptiness/nonduality (śūnyatā), see <a href="http://lapislazulitexts.com/longer_prajnaparamita_hrdaya_sutra.html" target="_blank"><em>Heart Sutra</em></a>, "Nargarjuna: Verses", Strong pp. 157-162, and <em>Vimalakirti Sutra</em>.</li>
-      <li>Excerpt from <em>Vimalakirti Sutra</em>: Vimalakīrti remains silent while discussing the subject of emptiness with an assembly of bodhisattvas. The bodhisattvas give a variety of answers on the question what non-duality is. Manjusri is the last bodhisattva to answer, and says that "by giving an explanation they have already fallen into dualism". Vimalakīrti, in his turn, answers with silence.</li>
-      <li>Wikipedia on Nargarjun on the two truths doctrine in the Mūlamadhyamakakārikā: which claims that there are two levels of truth or reality in Buddhist teaching, the ultimate reality and the conventionally or superficial reality. The ultimate truth to Nagarjuna is the truth that everything is empty of essence, this includes emptiness itself ('the emptiness of emptiness') &ndash; Middle Way.</li>
+      <li>For classical sources on emptiness/nonduality (śūnyatā), see <a href="http://lapislazulitexts.com/longer_prajnaparamita_hrdaya_sutra.html" target="_blank"><cite>Heart Sutra</cite></a>, "Nargarjuna: Verses", Strong pp. 157-162, and <cite>Vimalakirti Sutra</cite>.</li>
+      <li>Excerpt from <cite>Vimalakirti Sutra</cite>: Vimalakīrti remains silent while discussing the subject of emptiness with an assembly of bodhisattvas. The bodhisattvas give a variety of answers on the question what non-duality is. Manjusri is the last bodhisattva to answer, and says that "by giving an explanation they have already fallen into dualism". Vimalakīrti, in his turn, answers with silence.</li>
+      <li>Nargarjuna on the two truths doctrine in the <cite>Mūlamadhyamakakārikā</cite>:</li>
+      <blockquote>
+      <p>The Buddha's teaching of the Dharma is based on two truths: a truth of worldly convention and an ultimate truth. Those who do not understand the distinction drawn between these two truths do not understand the Buddha's profound truth. The ultimate cannot be taught without resorting to conventions; and without recourse to the ultimate, one cannot reach nirvana.</p>
+      <p>The ultimate truth to Nagarjuna is the truth that everything is empty of essence, this includes emptiness itself ('the emptiness of emptiness').</p></blockquote>
       <li>Nargarjuna's use of catuṣkoṭi (here is an article that has a somewhat lucid explanation on the <a href="http://aeon.co/magazine/philosophy/logic-of-buddhist-philosophy/" target="_blank">catuṣkoṭi </a>) in his exposition of emptiness:</li>
       <blockquote>All things (dharma) exist: affirmation of being, negation of non-being<br/>
         All things (dharma) do not exist: affirmation of non-being, negation of being<br/>
@@ -94,7 +97,10 @@ category: guide
       <li>Chan koans: A monk asked Dongshan Shouchu, "What is Buddha?" Dongshan said, "Three pounds of flax."</li>
       <li>A student asked Master Yun-Men (A.D. 949) "Not even a thought has arisen; is there still a sin or not?" Master replied, “Mount Sumeru!"</li>
       <li>Tiantai formulation: Three thousand realms in a single moment of thought:</li>
-      <blockquote>Zhiyi taught the principle of Three Thousand Realms in a Single Thought Moment (一念三千) in his "Great Concentration and Insight", based on the <em>Lotus Sutra</em>. The number 'Three Thousand' is derived from the Ten Worlds, multiplied by ten [because of the Mutual Possession of the Ten Worlds], which gives 100, multiplied by ten [the Ten Factors listed in Ch. 2 of the Lotus Sutra] which gives 1,000. 1,000 multiplied by 3 [the Three Realms of Existence: Self, Other, and Environment] which gives 3,000. - Wikipedia</blockquote>
+      <blockquote>Zhiyi taught the principle of Three Thousand Realms in a Single Thought Moment (一念三千) in his "Great Concentration and Insight", based on the <cite>Lotus Sutra</cite>. The number 'Three Thousand' is derived from the Ten Worlds, multiplied by ten [because of the Mutual Possession of the Ten Worlds], which gives 100, multiplied by ten [the Ten Factors listed in Ch. 2 of the Lotus Sutra] which gives 1,000. 1,000 multiplied by 3 [the Three Realms of Existence: Self, Other, and Environment] which gives 3,000. - Wikipedia</blockquote>
+      <li>"Indra's net" is the net of the Vedic god Indra, whose net hangs over his palace on Mount Meru, the axis mundi of Hindu cosmology and Hindu mythology. Indra's net has a multifaceted jewel at each vertex, and each jewel is reflected in all of the other jewels. In the <cite>Avatamsaka Sutra</cite>, the image of "Indra's net" is used to illustrate the concepts of emptiness, dependent origination, and interpenetration in Buddhist philosophy:</li>
+      <blockquote>Far away in the heavenly abode of the great god Indra, there is a wonderful net which has been hung by some cunning artificer in such a manner that it stretches out infinitely in all directions. In accordance with the extravagant tastes of deities, the artificer has hung a single glittering jewel in each "eye" of the net, and since the net itself is infinite in dimension, the jewels are infinite in number. There hang the jewels, glittering "like" stars in the first magnitude, a wonderful sight to behold. If we now arbitrarily select one of these jewels for inspection and look closely at it, we will discover that in its polished surface there are reflected <em>all</em> the other jewels in the net, infinite in number. Not only that, but each of the jewels reflected in this one jewel is also reflecting all the other jewels, so that there is an infinite reflecting process occurring.</blockquote>
+
     </ul>
   </div>
 </ol>

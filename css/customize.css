@@ -37,6 +37,12 @@ cite {
 /****************************
   NOMINATION FORM
 ****************************/
+#nominate {
+  width: 750px;
+  height: 1500px;
+  overflow: hidden;
+}
+
 #vote {
   width: 410px;
   height: 2400px;
@@ -152,8 +158,6 @@ cite {
   margin: 0 5px 10px;
   border-radius: 100%;
 }
-
-
 
 /****************************
   Row with equal height columns

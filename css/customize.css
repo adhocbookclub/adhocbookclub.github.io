@@ -35,17 +35,26 @@ cite {
 }
 
 /****************************
-  NOMINATION FORM
+  NOMINATION LIST
 ****************************/
-#nominate {
-  width: 750px;
-  height: 1620px;
-  overflow: hidden;
+#nominations .book-cover {
+  cursor: pointer;
+  display: inline-block;
+  margin: 5px;
+  height: 230px;
+  width: 150px;
 }
 
 #vote {
   width: 410px;
-  height: 2400px;
+  height: 900px;
+  overflow: hidden;
+}
+
+/***********/
+#nominate {
+  width: 750px;
+  height: 1620px;
   overflow: hidden;
 }
 

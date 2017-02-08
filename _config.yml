@@ -1,13 +1,13 @@
 # Dependencies
-markdown:  redcarpet
-highlighter:  pygments
+markdown: kramdown
+highlighter: pygments
 
 # Permalinks
-permalink:  pretty
+permalink: pretty
 
 # Setup
 # root:  http://adhocbookclub.github.io
-title:  Ad Hoc Book Club
+title: Ad Hoc Book Club
 
 
 redcarpet:
